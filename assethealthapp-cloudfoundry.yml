@@ -21,12 +21,6 @@ logging:
     level:
         com.bmcd.asset.health.uaa: DEBUG
         io.github.jhipster: DEBUG
-spring:
-    data:
-        jest:
-             uri: https://cloudfoundry:935a8dd067870ae9666def1ecd8f3e10@thorin-us-east-1.searchly.com
-liquibase:
-        contexts: demo
 jhipster:
     registry:
         password: GoshawkRules!
