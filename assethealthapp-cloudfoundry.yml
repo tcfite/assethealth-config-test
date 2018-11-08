@@ -24,7 +24,7 @@ logging:
 spring:
     data:
         jest:
-             uri: https://cloudfoundry:3501689820b8c9230b65cb14a41eb48d@thorin-us-east-1.searchly.com
+             uri: https://cloudfoundry:935a8dd067870ae9666def1ecd8f3e10@thorin-us-east-1.searchly.com
 liquibase:
         contexts: demo
 jhipster:
