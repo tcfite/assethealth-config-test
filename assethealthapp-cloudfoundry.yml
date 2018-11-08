@@ -21,8 +21,6 @@ logging:
     level:
         com.bmcd.asset.health.uaa: DEBUG
         io.github.jhipster: DEBUG
-liquibase:
-    context: dev
 jhipster:
     registry:
         password: GoshawkRules!
